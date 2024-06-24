@@ -1,3 +1,3 @@
 # portfolio
 
-visbible  [here](https://badersarah.github.io/portfolio/)
+visible  [here](https://badersarah.github.io/portfolio/)
