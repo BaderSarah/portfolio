@@ -1,0 +1,11 @@
+
+#phone, #mail{
+    height: 25px;    
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+#pphone, #pmail{
+    font-size: 16px;
+    margin-left: 20px;
+}
