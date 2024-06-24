@@ -82,6 +82,20 @@
 }
 
 table, td, tr{
-    padding: 20px;
+    padding: 10px;
+    margin: 20px;
 }
 
+table img{
+    margin-top: -20px;
+    height: 60px;
+}
+
+table p{
+    margin-top: -15px;
+    margin-left: 10px;
+}
+
+table h3{
+    margin-left: 20px;
+}
