@@ -53,3 +53,21 @@ main {
 }
 
 
+button{
+    padding: 10px;
+    font-weight: bold;
+    background-color: var(--darkblue);
+    border: #DAF561 solid 2px;
+    color: white;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+button:hover{
+    background-color: var(--lightblue);
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
