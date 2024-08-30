@@ -1,8 +1,8 @@
 :root {
-    --darkblue: #132441;
-    --yellow: #DAF561; 
-    --babyblue: #87BBD7;
-    --lightblue: #3451A3; 
+    --darkblue: #10375d;
+    --yellow: #8f7e18; 
+    --babyblue: #10375d53;
+    --lightblue: #05647a; 
 }
 
 body {
@@ -57,7 +57,7 @@ button{
     padding: 10px;
     font-weight: bold;
     background-color: var(--darkblue);
-    border: #DAF561 solid 2px;
+    border: var(--yellow) solid 2px;
     color: white;
     border-radius: 5px;
     font-size: 12px;

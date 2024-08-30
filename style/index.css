@@ -1,8 +1,8 @@
 :root {
     --darkblue: #132441;
-    --yellow: #DAF561; 
+    --yellow: #8f7e18; 
     --babyblue: #87BBD7;
-    --lightblue: #3451A3; 
+    --lightblue: #05647a; 
 }
 
 .work{
@@ -71,7 +71,8 @@
 }
 
 #prof{
-    height: 250px;
+    height: 200px;
+    margin: 20px; 
 }
 
 
