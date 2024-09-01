@@ -5,6 +5,10 @@
     --lightblue: #05647a; 
 }
 
+h1{
+    text-align: center;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -70,4 +74,8 @@ button:hover{
 .dark{
     background-color: black;
     color: white;
+}
+
+.dark h2{
+    color: var(--yellow);
 }
