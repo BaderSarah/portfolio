@@ -1,0 +1,21 @@
+.header-container{
+    margin: 0;
+    height: 100px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: right;
+
+    font-weight: 400;
+    padding-top: 20px;
+    padding-right: 60px;
+    text-transform: uppercase;
+    letter-spacing: 0.05cm;
+
+    div:hover{
+        cursor: pointer;
+    }
+}
